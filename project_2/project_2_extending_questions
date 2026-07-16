@@ -1,0 +1,11 @@
+#1. Why do larger fins improve stability?
+
+#Larger fins move the center of pressure further aft toward the tail, increasing the distance between the center of pressure and the center of gravity. This separation creates a stronger restorative "weather-vane" torque that automatically aligns the rocket's nose with its direction of travel. This effectively damps flight oscillations and prevents the rocket from tumbling.
+
+#2. Is there a point where bigger fins hurt performance?
+
+#Yes, once a rocket reaches an ideal stability margin (typically 1.5 – 2.5 calibers), additional fin area provides negligible stability gains while introducing parasitic weight. This added mass and surface area consume kinetic energy that would otherwise contribute to altitude, causing the rocket to reach a lower apogee.
+
+#3. Why does drag increase?
+
+#Drag increases because larger fins expand the rocket's "wetted surface area", leading to higher skin friction as more air molecules interact with the fin surfaces. Additionally, larger fins generate a bigger turbulent wake behind the rocket, intensifying pressure-based form drag that actively resists forward motion.
