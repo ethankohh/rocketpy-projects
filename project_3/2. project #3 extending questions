@@ -1,0 +1,11 @@
+# Why doesn't the biggest motor always produce the best result?
+
+# Larger motors carry a significant weight penalty in the form of heavier casings and unburned propellant that the rocket must initially lift. Additionally, high-thrust motors accelerate rockets to extreme speeds in the thick lower atmosphere, causing aerodynamic drag to increase exponentially. This causes the rocket to hit a wall of air resistance, wasting its extra energy before it can successfully translate into maximum altitude.
+
+# What role does rocket mass play?
+
+# Rocket mass is a double-edged sword that affects the vehicle differently depending on the phase of flight. During the motor burn, a lighter mass allows the rocket to accelerate much faster since it requires less force to move. However, once the motor burns out, a heavier rocket will coast higher because it carries more physical momentum to push through the aerodynamic drag.
+
+# What is total impulse?
+
+# Total impulse represents the overall amount of energy or "work" a rocket motor delivers over its entire burn time. It is mathematically defined as the total area under the motor's thrust curve. While this metric dictates a motor's letter classification, two motors with the same total impulse can still produce completely different flight profiles depending on their burn duration.
