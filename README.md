@@ -1,2 +1,2 @@
-# rocketpy-practice-projects
+# rocketpy-projects
 Detailed rocket flight simulation using the RocketPy framework.
